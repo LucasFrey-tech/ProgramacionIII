@@ -1,2 +1,2 @@
 # Repositorio Programacion III CUVL
-Este repositorio contiene la cursada de la facultad
+Este repositorio contiene el trabajo practico
